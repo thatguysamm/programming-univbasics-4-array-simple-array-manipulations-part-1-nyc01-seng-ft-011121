@@ -13,3 +13,7 @@ end
 def pop_with_args(array)
   @small_dogs= @dog_breeds.pop(2)
 end
+
+def using_shift(array)
+  @im_so_over_this_city= @my_favorite_cities.shift
+end
