@@ -8,6 +8,6 @@ end
 
 def using_pop(array)
   deleted_string= @continents.pop
-  
+
 
 end
