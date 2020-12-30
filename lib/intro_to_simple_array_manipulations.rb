@@ -17,3 +17,7 @@ end
 def using_shift(array)
   @im_so_over_this_city= @my_favorite_cities.shift
 end
+
+def shift_with_args(array)
+  @brands_removed= @ice_cream_brands.shift(2)
+end
